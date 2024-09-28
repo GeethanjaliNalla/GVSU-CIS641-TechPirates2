@@ -4,9 +4,9 @@ It's an individual and sustainable shopping platform, showing the need for ecolo
 
 # Team Members and Roles
 
-* [Alekhya Vaddineni](https://github.com/Alekhya2024/CIS641-HW2-Vaddineni)
-* [Akhila Thota](https://github.com/akhilathoota6/CIS641-HW2-Thota)
-* [Geethanjalai Nalla](https://github.com/GeethanjaliNalla/CIS641-HW2-Nalla.git)  (Project Manager,  Sustainability Lead)
+* [Alekhya Vaddineni](https://github.com/Alekhya2024/CIS641-HW2-Vaddineni)(Frontend Developer)
+* [Akhila Thota](https://github.com/akhilathoota6/CIS641-HW2-Thota)(Backend Developer)
+* [Geethanjalai Nalla](https://github.com/GeethanjaliNalla/CIS641-HW2-Nalla.git)(Database Developer)
 
 # Prerequisites
 
