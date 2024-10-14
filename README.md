@@ -21,7 +21,7 @@ Marketing and Community Engagement: Digital Marketing, Community Building, Brand
 Personalization Features
 Sustainability and Transparency Features
 Testing
-Sustainability Practices# Team Name
+Sustainability Practices
 
 
 
