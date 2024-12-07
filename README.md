@@ -25,7 +25,7 @@ Sustainability Practices
 
 # Installation Steps
 
-# ❖ Install NodeJs ( Ignore If Already Installed)
+## ❖ Install NodeJs ( Ignore If Already Installed)
  1. Visit the official Node.js website i.e) https://nodejs.org/en/download/
  2. Download the Node.js installer
  3. Run the installer.
@@ -33,7 +33,7 @@ Sustainability Practices
 
   —First Run Backend then Frontend & Admin—
 
- # ❖ Steps To Setup Backend Of The Project
+ ## ❖ Steps To Setup Backend Of The Project
 
  1. OpenProject Folder In VS Code
  2. OpenIntegrated Terminal
@@ -128,7 +128,7 @@ l.And Paste It in the backend / .env file and replace the <password> with
   >>> Before Running Frontend or Admin Projects make sure Backend is
  Running in the background terminal
 
-  # ❖ Steps To Run Frontend of The Project
+## ❖ Steps To Run Frontend of The Project
 
  1. Right Click on ‘frontend’ folder > Select “Open In Integrated Terminal”
  2. Type “npm install” and press Enter and Wait for Installation to be completed
@@ -140,7 +140,7 @@ l.And Paste It in the backend / .env file and replace the <password> with
 4. Nowyou will see the ‘http://localhost:5173’ link in that terminal. Open that link
  in the browser.
 
-# ❖ Steps To Run AdminPanel of The Project
+## ❖ Steps To Run AdminPanel of The Project
 
  1. Right Click on ‘admin’ folder > Select “Open In Integrated Terminal”
  2. Type “npm install” and press Enter and Wait for Installation to be
@@ -149,7 +149,7 @@ l.And Paste It in the backend / .env file and replace the <password> with
 
  ![alt text](image-18.png)
 
-  4. Nowyou will see the ‘http://localhost:5174’ link in that terminal. Open
+  4. Now you will see the ‘http://localhost:5174’ link in that terminal. Open
  that link in the browser.
 
 
