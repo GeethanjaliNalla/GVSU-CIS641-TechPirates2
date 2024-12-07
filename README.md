@@ -22,3 +22,6 @@ Personalization Features
 Sustainability and Transparency Features
 Testing
 Sustainability Practices
+
+Installation Steps
+
