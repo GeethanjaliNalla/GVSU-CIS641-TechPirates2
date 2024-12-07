@@ -81,21 +81,21 @@ Right Click on ‘backend’ > Select “Open In Integrated Terminal”
 
    Note: Do not use ‘@’ symbol in the password
 
- g. NowClick on Finish & Close
+ g. Now Click on Finish & Close
 
  h.Whitelist IP0.0.0.0&ClickonAddEntry
 
 ![alt text](image-8.png)
 
-i. NowClickonConnect
+i. Now Click on Connect
 
 ![alt text](image-9.png)
 
-j. NowSelectCompassOption
+j. Now Select Compass Option
 
 ![alt text](image-10.png)
 
-k. AndCopytheConnectionString
+k. And Copy the Connection String
 
 ![alt text](image-11.png)
 
@@ -104,7 +104,7 @@ l.And Paste It in the backend / .env file and replace the <password> with
 
  ![alt text](image-12.png)
 
- ● Inmongodb uri don’t add ” / ” in the end
+ ● In mongodb uri don’t add ” / ” in the end
 
  7. Setup Stripe ( Optional )
  a. create a stripe account from here
