@@ -150,33 +150,34 @@ Continuous improvement will be a constant feature. Reviews post-implementation w
 
 To support this process, a dedicated team will be set up for technical issues, integration, and escalations. It will function under well-defined Service Level Agreements to resolve all the issues reported without any delay.
 
-# 4.Use Case Diagram Traceability:
+# Use Case Diagram Traceability:
 
-Artifact ID    	Artifact Name	    Requirement ID
-UC1	         User Registration	      FR1.1, FR1.2
-UC2	            Product Search	      FR2.3, FR2.4, NFR2.2
-UC3         	Add to Cart	          FR3.1, FR3.2
-UC4	         Checkout Process	      FR3.4, FR3.5, NFR3.3
-UC5	      Admin Product Management	  FR2.1, FR2.5, NFR4.1
+|Artifact ID   | 	Artifact Name	    |   Requirement ID        |
+|--------------|------------------------|-------------------------|                                               
+|UC1	       | User Registration	    |    FR1.1, FR1.2         |
+|UC2	       |    Product Search	    |    FR2.3, FR2.4, NFR2.2 |
+|UC3           |Add to Cart	            |    FR3.1, FR3.2         |
+|UC4	       | Checkout Process	    |    FR3.4, FR3.5, NFR3.3 |
+|UC5	       |Admin Product Management|	 FR2.1, FR2.5, NFR4.1 |
 
-________________________________________
+
 # Class Diagram Traceability:
 
-Artifact Name	    Requirement ID
-User Class	      FR1.1, FR1.2, NFR3.1
-Product Class	  FR2.1, FR2.3, FR2.4, NFR2.1
-Order Class	      FR3.4, FR4.1, FR4.5
-Cart Class	      FR3.1, FR3.2, FR3.3, NFR1.1
-Admin Class	      FR2.5, FR5.3, NFR5.2
+|Artifact Name	   | Requirement ID            |
+|------------------|---------------------------|
+|User Class	       |FR1.1, FR1.2, NFR3.1       |
+|Product Class	   |FR2.1, FR2.3, FR2.4, NFR2.1|
+|Order Class	   |FR3.4, FR4.1, FR4.5        |
+|Cart Class	       |FR3.1, FR3.2, FR3.3, NFR1.1|
+|Admin Class	   |FR2.5, FR5.3, NFR5.2       |
 
 	
-________________________________________
 # Activity Diagram Traceability:
 
-Artifact ID	     Artifact Name	          Requirement ID
-AD1	           User Registration Flow	    FR1.1, FR1.2
-AD2	             Product Search Flow	  FR2.3, FR2.4, NFR2.2
-AD3	              Add to Cart Flow	       FR3.1, FR3.2
-AD4	           Checkout Process Flow	   FR3.4, FR3.5, NFR3.3
-AD5	         Admin Product Management	   ssssssssssssssFR2.5, NFR4.1
-
+| Artifact ID      |            Artifact Name	         |            Requirement ID      |
+|------------------|-------------------------------------|------------------------------- |
+| AD1	           | User Registration Flow	             |        FR1.1, FR1.2            |
+| AD2	           | Product Search Flow	             |        FR2.3, FR2.4, NFR2.2    |
+| AD3	           | Add to Cart Flow	                 |        FR3.1, FR3.2            |   
+| AD4	           | Checkout Process Flow	             |        FR3.4, FR3.5, NFR3.3    |
+| AD5	           | Admin Product Management	         |        FR2.5, NFR4.1           |
